@@ -1,0 +1,15 @@
+GET http://localhost:8080/
+%%%
+
+# Duration: 1057 ms
+# URL: http://localhost:8080/
+
+# HTTP/1.1 200
+
+@Content-Type: text/plain;charset=UTF-8
+@Content-Length: 60
+@Date: Wed, 29 Apr 2020 13:17:14 GMT
+@Keep-Alive: timeout=60
+@Connection: keep-alive
+
+Dummy data with some id 8838359e-a5b2-4eee-a468-176c84adcc77

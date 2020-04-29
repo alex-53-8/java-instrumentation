@@ -1,0 +1,27 @@
+GET http://localhost:10000/
+%%%
+
+# Duration: 19 ms
+# URL: http://localhost:10000/
+
+# HTTP/1.1 200 OK
+
+@Content-type: text
+@Content-length: 277
+
+systemLoad
+3.81
+
+processorsCount
+4
+
+memory
+free: 32330512, total: 46137344, max: 4173332480
+
+version
+5.0.0-38-generic
+
+jvmArgs
+-Dcustom_property=for_demo
+-javaagent:/home/aleksey/tools/idea/lib/idea_rt.jar=40479:/home/aleksey/tools/idea/bin
+-Dfile.encoding=UTF-8

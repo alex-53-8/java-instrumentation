@@ -1,0 +1,4 @@
+Agent-Class: io.alex538.java.instrumentation.agent.monitor.Agent
+Premain-Class: io.alex538.java.instrumentation.agent.monitor.Agent
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
